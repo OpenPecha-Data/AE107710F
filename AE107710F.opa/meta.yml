@@ -1,0 +1,22 @@
+id: AE107710F
+title: Prayer to Thangtong Gyalpo
+type: translation
+pechas:
+- IE9319743
+- I4E3AE144
+- IA26ABA06
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:35:54.022884
+  last_modified_at: 2023-01-04 12:35:54.022890
+  collections:
+  - Jamyang Khyentse Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IE9319743/EB9B: '4928'
+  I4E3AE144/2593: '4928'
+  IA26ABA06/B02B: '4928'
